@@ -1,0 +1,12 @@
+.done .todo-list-item-label {
+    text-decoration: line-through;
+}
+
+.important .todo-list-item-label {
+    font-weight: 700;
+    color: darkblue;
+}
+
+.btn.btn-outline-success {
+    margin-left: 10px;
+}
